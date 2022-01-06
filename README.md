@@ -1,6 +1,7 @@
 # Cryptowin
 > Script bot penghasil BTC dari cryptiwin dengan termux
 ##### Info
+<img src="https://github.com/Musk-ID/Cryptowin/blob/main/result.png" width="440" title="Menu" alt="Menu">
 <p align="center">
  <a href="https://github.com/Musk-ID">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/Musk-ID/Cryptowin.svg"/>
