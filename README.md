@@ -32,3 +32,6 @@ $ python bot.py
 Please take cookies from web cryptowin.io 
 using httpcanary app or other sniffing apk
 ```
+- [X] Website crpyotwin [here]()
+- [X] Applikasi httpcanary [here]()
+
